@@ -1,5 +1,0 @@
-MDAnalysis
-matplotlib
-numpy
-multiprocessing
-pickle-mixin
